@@ -17,8 +17,8 @@ This guide covers various topics of Python programming basics, including:
 
 ## Names of GitHub Group Members:
 
-1. [Ade Pertiwi](hhttps://github.com/adepertiwi)
+1. [Ade Pertiwi](https://github.com/adepertiwi)
 2. [Aprodhita Nanda](https://github.com/aprodhita)
 3. [Sri Hidayanti](https://github.com/shidayanti12)
-4. [Jonathan Wilber](https://github.com/jowilb)
+4. [Jonathan Wilbert](https://github.com/jowilb)
 5. [Stasia Olfiani](https://github.com/13stasiaolfiani)
